@@ -19,9 +19,11 @@ You provided a build — use it to test the app on a device:
 Put screenshots in `assets/screenshots/` and reference them below. Example (replace with your images):
 
 ```markdown
-![Home screen](assets/screenshots/screen1.png)
-![Send screen](assets/screenshots/screen2.png)
-![Received files](assets/screenshots/screen3.png)
+![Home screen](assets/images/home.png)
+![Send screen](assets/images/send.png)
+![Web Share View](assets/images/QR.png)
+![Web Share View](assets/images/cat.png)
+![Computer Screen View](assets/images/computer.png)
 ```
 
 > **Tip:** Use `assets/screenshots/README.md` or the `screenshots` folder in repo root; keep file names descriptive (e.g. `home_send_receive.png`).
