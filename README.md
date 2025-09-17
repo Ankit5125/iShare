@@ -2,12 +2,13 @@
 
 Welcome to **iShare**, a Flutter app that makes **sharing files** between devices fast, reliable and simple. From sending media, documents, and more — iShare gives you intuitive UI and smooth performance.
 
+<p align="center">
 <img src="assets/images/home.png" alt="Home Screen" width="300" />
 <img src="assets/images/send.png" alt="Send Screen" width="300" />
 <img src="assets/images/cat.png" alt="Receiver Screen" width="300" />
 <img src="assets/images/QR.png" alt="Receiver Screen" width="300" />
 <img src="assets/images/computer.png" alt="Coputer Screen" width="300" />
-
+</p>
 ---
 
 ## 📥 Download the App
