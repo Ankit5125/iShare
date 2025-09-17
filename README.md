@@ -1,11 +1,5 @@
 # iShare
 
-> *A concise, polished README for the `iShare` Flutter project — editable. Fill the placeholders (features, screenshots, dependencies) with exact details from your code.*
-
----
-
-## 📌 One‑line / Tagline
-
 **iShare** — A Flutter-based cross-platform app for sharing (files / content / links). *(Replace this with an accurate tagline describing what your app actually does.)*
 
 ---
