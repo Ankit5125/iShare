@@ -2,9 +2,11 @@
 
 Welcome to **iShare**, a Flutter app that makes **sharing files** between devices fast, reliable and simple. From sending media, documents, and more — iShare gives you intuitive UI and smooth performance.
 
-| Home Screen | Send Screen | Receiver Screen | QR Screen | Computer Screen |
+| Home Screen | Send Screen | Receiver Screen | Receiver Screen |
 |-------------|-------------|-----------------|-----------|-----------------|
-| <img src="assets/images/home.png" alt="Home Screen" width="200"/> | <img src="assets/images/send.png" alt="Send Screen" width="200"/> | <img src="assets/images/cat.png" alt="Receiver Screen" width="200"/> | <img src="assets/images/QR.png" alt="QR Screen" width="200"/> | <img src="assets/images/computer.png" alt="Computer Screen" width="200"/> |
+| <img src="assets/images/home.png" alt="Home Screen" width="200"/> | <img src="assets/images/send.png" alt="Send Screen" width="200"/> | <img src="assets/images/cat.png" alt="Receiver Screen" width="200"/> | <img src="assets/images/QR.png" alt="QR Screen" width="200"/> |
+
+<img src="assets/images/computer.png" alt="Computer Screen" width="1000"/> 
 
 ---
 
